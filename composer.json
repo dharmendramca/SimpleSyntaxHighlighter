@@ -1,0 +1,7 @@
+{
+  "require":
+  {
+    "phpclasses/simplesyntaxhighligh": ">=1.0.0"
+  }
+  
+}
