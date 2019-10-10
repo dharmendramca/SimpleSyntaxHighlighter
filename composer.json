@@ -1,7 +1,7 @@
 {
   "require":
   {
-    "phpclasses/simplesyntaxhighligh": ">=1.0.0"
+    "dharmendramca/SimpleSyntaxHighlighter": ">=1.0.0"
   }
   
 }
